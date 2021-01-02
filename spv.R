@@ -1,6 +1,10 @@
 SPV <- function(players, lineups){
+  
   ## players is a list of players used in the game of interest
   ## lineups is a data frame with the team lineups as provided by the output of bigballR 
+  ## to do: add Bayesian adjustment of lineups based on mins/possessions 
+  ## to do: optimize code syntax/readability
+  
   v <- c()
   coalit = coalitions(length(players))
   b = coalit$Binary
