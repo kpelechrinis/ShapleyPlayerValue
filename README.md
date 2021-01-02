@@ -1,4 +1,4 @@
-This is the code associated with this post: 
+This is the code associated with this post: https://412sportsanalytics.wordpress.com/2021/01/02/single-game-player-contribution-metrics-in-basketball/ 
 
 In order to use the function that calculates the SPV for the players of a team you need to use the ```bigballR``` and ```GameTheory``` packages. 
 
