@@ -5,6 +5,7 @@ In order to use the function that calculates the SPV for the players of a team y
 ```
 library(bigballR)
 library(GameTheory)
+library(GameTheoryAllocation)
 ```
 
 Then you can use the following script to obtain the players and lineups for the game of interest from the bigballR: 
